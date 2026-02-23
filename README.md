@@ -12,7 +12,32 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" title="Always coding 🤖"/>
+<table border="0" align="center">
+<tr>
+<td align="center">
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="160" title="Always coding 🤖"/>
+</td>
+<td align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="160" title="AI is the future 🤖"/>
+</td>
+<td align="center" valign="middle">
+
+```
+╭──────────────────────────────╮
+│                              │
+│  "AI is not magic —          │
+│   it's math, data,           │
+│   and a lot of debug() 🐛"   │
+│                              │
+│  "Automate the boring.       │
+│   Build the brilliant. ✨"   │
+│                              │
+╰──────────────────────────────╯
+```
+
+</td>
+</tr>
+</table>
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
