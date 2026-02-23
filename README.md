@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Sanjida%20Jamal%20Priya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=⟨%20AI%20Engineer%20%2F%20SQA%20%2F%20Automation%20Architect%20⟩&descAlignY=68&descSize=16&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Sanjida%20Jamal%20Priya&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=⟨%20AI%20Engineer%20%2F%20SQA%20%2F%20Automation%20Architect%20⟩&descAlignY=60&descSize=16&descColor=a78bfa" />
 
 </div>
 
@@ -11,6 +11,8 @@
 </div>
 
 <br/>
+
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" title="Always coding 🤖"/>
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
@@ -106,20 +108,16 @@ open_to: ["Collaborations", "AI Projects", "Research"]
 
 ---
 
-## ◈ Currently Leveling Up
+## ◈ On A Mission
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   🔭  LLM Fine-tuning & RLHF                           │
-│   🌱  Production RAG Pipelines                          │
-│   ⚡  Multi-Agent Systems with n8n                      │
-│   📖  Research: Agentic AI & Tool Use                   │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80"/>
+
+| 🔭 Exploring | 🛠️ Building | 📖 Researching |
+|:---:|:---:|:---:|
+| LLM Fine-tuning & RLHF | Production RAG Pipelines | Agentic AI & Tool Use |
+| Vision Transformers | Multi-Agent Systems w/ n8n | NLP State of the Art |
 
 </div>
 
