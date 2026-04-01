@@ -57,7 +57,11 @@
 
 ## ◈ Who Am I
 
-<img align="right" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdnZ3VhNnRybjl1emZzaGRsOXNlMmNxeTVnemhsMGt5dGdtbXEwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="280"
+     src="https://drive.google.com/uc?export=view&id=15FqgjUbPI9YbMpuNsLdvgLKMAIdGt7-B"
+     alt="My Picture"
+     title="Mst. Sanjida Jamal Priya"
+     style="border-radius: 12px; margin-left: 10px;" />
 
 ```yaml
 identity:
