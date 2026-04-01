@@ -18,7 +18,7 @@
 <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="160" title="Always coding 🤖"/>
 </td>
 <td align="center">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="160" title="AI is the future 🤖"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJkcXlid3h4cTk1eW0zaXlrNnhldzl3b2g0Y2Y4cGdrN216NWMyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="160" title="AI is the future 🤖"/>
 </td>
 <td align="center" valign="middle">
 
