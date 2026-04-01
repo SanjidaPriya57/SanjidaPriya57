@@ -106,11 +106,15 @@ open_to: ["Collaborations", "AI Projects", "Research"]
 ![.NET](https://img.shields.io/badge/.NET-0a0a0a?style=for-the-badge&logo=dotnet&logoColor=60a5fa)
 ![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=60a5fa)
 ![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=60a5fa)
+![Django](https://img.shields.io/badge/Django-0a0a0a?style=for-the-badge&logo=django&logoColor=60a5fa)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=60a5fa)
 
+### 🗄️ Data · Databases
 ### 🗄️ Data · Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=fb923c)
 ![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=fb923c)
 ![Supabase](https://img.shields.io/badge/Supabase-0a0a0a?style=for-the-badge&logo=supabase&logoColor=fb923c)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=for-the-badge&logo=mongodb&logoColor=fb923c)
 
 </div>
 
