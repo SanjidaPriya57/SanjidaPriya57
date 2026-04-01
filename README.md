@@ -110,7 +110,6 @@ open_to: ["Collaborations", "AI Projects", "Research"]
 ![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=60a5fa)
 
 ### 🗄️ Data · Databases
-### 🗄️ Data · Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=fb923c)
 ![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=fb923c)
 ![Supabase](https://img.shields.io/badge/Supabase-0a0a0a?style=for-the-badge&logo=supabase&logoColor=fb923c)
