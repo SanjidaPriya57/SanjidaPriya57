@@ -16,9 +16,15 @@
 <tr>
 <td align="center">
 <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="160" title="Always coding 🤖"/>
-</td>
-<td align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJkcXlid3h4cTk1eW0zaXlrNnhldzl3b2g0Y2Y4cGdrN216NWMyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="160" title="AI is the future 🤖"/>
+<td align="center" valign="middle">
+  <img 
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJkcXlid3h4cTk1eW0zaXlrNnhldzl3b2g0Y2Y4cGdrN216NWMyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" 
+    width="260" 
+    height="260"
+    alt="AI animation"
+    title="AI is the future 🤖"
+    style="border-radius: 12px; display: block; margin: 0 auto;"
+  />
 </td>
 <td align="center" valign="middle">
 
