@@ -58,7 +58,7 @@
 ## ◈ Who Am I
 
 <img align="right" width="280"
-     src="https://drive.google.com/uc?export=view&id=15FqgjUbPI9YbMpuNsLdvgLKMAIdGt7-B"
+     src="https://github.com/SanjidaPriya57/assets/blob/main/20214%20STA.jpg"
      alt="My Picture"
      title="Mst. Sanjida Jamal Priya"
      style="border-radius: 12px; margin-left: 10px;" />
