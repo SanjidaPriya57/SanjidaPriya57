@@ -132,7 +132,7 @@ open_to: ["Collaborations", "AI Projects", "Research"]
 ## ◈ GitHub Pulse
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanjidaPriya57&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=f472b6&text_color=cbd5e1&ring_color=a78bfa" height="170"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=SanjidaPriya57&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=f472b6&text_color=cbd5e1&ring_color=a78bfa" height="170"/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SanjidaPriya57&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=cbd5e1" height="170"/>
 </div>
 
