@@ -70,8 +70,8 @@ identity:
   based_in: "Bangladesh 🇧🇩"
 
 current_role:
-  - SQA Engineer
   - AI Developer
+  - SQA Engineer
 
 obsessions:
   - Transformers & LLM Fine-tuning
@@ -107,17 +107,25 @@ open_to: ["Collaborations", "AI Projects", "Research"]
 
 ### 🛡️ QA · Testing · Performance
 ![Appium](https://img.shields.io/badge/Appium-0a0a0a?style=for-the-badge&logo=appium&logoColor=34d399)
+![Playwright](https://img.shields.io/badge/Playwright-0a0a0a?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-0a0a0a?style=for-the-badge&logo=postman&logoColor=34d399)
 ![JMeter](https://img.shields.io/badge/JMeter-0a0a0a?style=for-the-badge&logo=apache&logoColor=34d399)
 
-### 💻 Dev · Frontend · Backend
-![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=60a5fa)
-![Flutter](https://img.shields.io/badge/Flutter-0a0a0a?style=for-the-badge&logo=flutter&logoColor=60a5fa)
-![.NET](https://img.shields.io/badge/.NET-0a0a0a?style=for-the-badge&logo=dotnet&logoColor=60a5fa)
-![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=60a5fa)
-![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=60a5fa)
-![Django](https://img.shields.io/badge/Django-0a0a0a?style=for-the-badge&logo=django&logoColor=60a5fa)
-![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=60a5fa)
+### 💻 Development Stack
+
+#### Frontend
+![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-0a0a0a?style=for-the-badge&logo=flutter&logoColor=02569B)
+![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-0a0a0a?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0a0a0a?style=for-the-badge&logo=django&logoColor=092E20)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=009688)
+![.NET](https://img.shields.io/badge/.NET-0a0a0a?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+
 
 ### 🗄️ Data · Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=fb923c)
